@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "web2_b";
+  src: local("AlQuran IndoPak by QuranWBW"),
+    url("https://quran.com/fonts/quran/hafs/nastaleeq/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff2")
+      format("woff2"),
+    url("https://quran.com/fonts/quran/hafs/nastaleeq/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff")
+      format("woff"),
+    url("https://quran.com/fonts/quran/hafs/nastaleeq/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.ttf")
+      format("truetype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mehr Nastaliq Web 3";
+  src: local("Mehr Nastaliq Web 3"),
+    url(https://raw.githubusercontent.com/mrbusy1/fonts/main/Mehr%20Nastaliq%20Web%203.ttf);
+}
+
+@font-face {
+  font-family: Al_Mushaf;
+  src: local(Al_Mushaf),
+    url(https://raw.githubusercontent.com/mrbusy1/fonts/main/Al_Mushaf.ttf);
+}
+@font-face {
+  font-family: Aslam;
+  src: local(Aslam),
+    url(https://raw.githubusercontent.com/mrbusy1/fonts/main/Aslam.ttf);
+}
+
+@font-face {
+    font-family: 'PDMS_Saleem_Quran';
+    src: local("PDMS_Saleem_Quran"),
+    url("https://quran.com/fonts/quran/hafs/nastaleeq/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff2")
+    format("woff2"),
+  url("https://quran.com/fonts/quran/hafs/nastaleeq/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff")
+    format("woff"),
+  url("https://quran.com/fonts/quran/hafs/nastaleeq/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.ttf")
+    format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

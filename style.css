@@ -40,3 +40,9 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+  font-family: Quran;
+  src: local(Quran),
+    url(https://raw.githubusercontent.com/mrbusy1/font1/main/Quran.ttf);
+}
